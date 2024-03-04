@@ -19,6 +19,7 @@ go_home.addEventListener("click",()=>{
     h_w.style.display="block";
 
 })
+
 pritam.addEventListener("click",()=>{
     ply.style.display="block";
     home_acces.style.display="none";
